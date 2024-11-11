@@ -97,7 +97,7 @@ const config = {
         id: "api",
         docsPluginId: "classic",
         config: {
-          petstore: {
+          api: {
             specPath: "openapi.json",
             outputDir: "api",
             sidebarOptions: {
